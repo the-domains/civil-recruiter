@@ -1,0 +1,28 @@
+name: Civil Recruiter
+favicon: null
+layout_spectrum: 0.7191289933398366
+typography_spectrum: 0.8145347347017378
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.16326124966144562
+  lightness: 0.6898280119057745
+  saturation: 0.4875399055890739
+  rhythmicContrast: 0.4200408519245684
+purpose: []
